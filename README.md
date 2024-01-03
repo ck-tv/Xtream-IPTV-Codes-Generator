@@ -47,7 +47,7 @@ FAQ;
 
 **What is Xtream IPTV Code Generator ?**
 
-Xtream IPTV Code Generator is an online tool by pythock.com that generates latest xtream codes for free of cost.
+Xtream IPTV Code Generator is an online tool by ck that generates latest xtream codes for free of cost.
 
 
 **Why you Should Use Xtream IPTV Code Generator ?**
